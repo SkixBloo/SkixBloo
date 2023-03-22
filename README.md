@@ -1,4 +1,4 @@
-### Not really active on GitHub but more active on Scratch 
+### Hi, the name's SkieBloo I code in Python, Scratch, and also HTML.
 
 <!--
 **SkieBloo/SkieBloo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
