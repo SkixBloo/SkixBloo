@@ -1,5 +1,5 @@
 ### Hi, the name's SkieBloo I code in Python, Scratch, and also HTML.  I am mostly active on Scratch but I will sometimes be active here on GitHub
-![Screen-Shot-2021-02-26-at-10 34 30-AM-630x358](https://user-images.githubusercontent.com/128624869/228089225-8a997f4e-0ae4-46b2-9dde-7a67d99421c6.png)
+![pepsiwump](https://user-images.githubusercontent.com/128624869/228089383-1e5265f6-7839-40ba-85a5-b8082c1d8230.png)
 
 <!--
 **SkieBloo/SkieBloo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
