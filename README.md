@@ -1,9 +1,7 @@
 Here's a GIF to ligten the mood!
-using (var gif = AnimatedGif.Create("anime-chibi.gif", 33))
-{
-    var img = Image.FromFile("myimage.png");
-    gif.AddFrame(img, delay: -1, quality: GifQuality.Bit8);
-}
+![](anime-chibi.gif)
+
+
 <!--
 **SkieBloo/SkieBloo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
