@@ -1,5 +1,24 @@
-Here's a GIF to ligten the mood!
-![](anime-chibi.gif)
+<!DOCTYPE html>
+<html>
+  
+<body>
+<center>
+    <!-- The image has scrolling behavior to left -->
+    <marquee  behavior="scroll" direction="left">        
+          <img src=
+"file:///media/fuse/drivefs-5d6a3a0817b2610fc3b722a21011dd01/root/anime-chibi.gif"
+          alt="Chibi"> 
+    </marquee>  
+      
+   <!-- The image has scrolling behavior to the upper direction. -->
+   <marquee  behavior="scroll" direction="up">         
+          <img src= 
+"file:///media/fuse/drivefs-5d6a3a0817b2610fc3b722a21011dd01/root/anime-chibi.gif"
+          alt="Chibi2"> 
+    </marquee>  
+</center>
+</body>
+</html>
 
 
 <!--
