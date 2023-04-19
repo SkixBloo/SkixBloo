@@ -1,25 +1,26 @@
 <!DOCTYPE html>
 <html>
   
+<!DOCTYPE html>
+<html>
 <body>
+  
 <center>
-    <!-- The image has scrolling behavior to left -->
-    <marquee  behavior="scroll" direction="left">        
+    <marquee  behavior="alternate" direction="left">          
           <img src=
-"file:///media/fuse/drivefs-5d6a3a0817b2610fc3b722a21011dd01/root/anime-chibi.gif"
-          alt="Chibi"> 
+"https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190710102234/download3.png"
+          alt="GeeksforGeeks logo"> 
     </marquee>  
       
-   <!-- The image has scrolling behavior to the upper direction. -->
-   <marquee  behavior="scroll" direction="up">         
+   <marquee  behavior="alternate" direction="right">         
           <img src= 
-"file:///media/fuse/drivefs-5d6a3a0817b2610fc3b722a21011dd01/root/anime-chibi.gif"
-          alt="Chibi2"> 
+"https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190710102234/download3.png"
+          alt="GeeksforGeeks logo"> 
     </marquee>  
 </center>
+  
 </body>
 </html>
-
 
 <!--
 **SkieBloo/SkieBloo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
