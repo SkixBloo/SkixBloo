@@ -1,26 +1,6 @@
-<!DOCTYPE html>
-<html>
-  
-<!DOCTYPE html>
-<html>
-<body>
-  
-<center>
-    <marquee  behavior="alternate" direction="left">          
-          <img src=
-"https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190710102234/download3.png"
-          alt="GeeksforGeeks logo"> 
-    </marquee>  
-      
-   <marquee  behavior="alternate" direction="right">         
-          <img src= 
-"https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190710102234/download3.png"
-          alt="GeeksforGeeks logo"> 
-    </marquee>  
-</center>
-  
-</body>
-</html>
+![](anime-chibi.gif)
+
+
 
 <!--
 **SkieBloo/SkieBloo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
