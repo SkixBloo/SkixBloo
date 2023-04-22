@@ -1,4 +1,5 @@
 <b>Here's a GIF to lighten the mood!</b>
+
 ![](anime-chibi.gif)
 
 ![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SkieBloo&theme=github_dark)
