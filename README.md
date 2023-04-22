@@ -6,6 +6,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SkieBloo&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sid72020123&show_icons=true&theme=github_dark)](https://github.com/Sid72020123)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SkieBloo&show_icons=true&theme=radical)](https://github.com/Sid72020123)
 <!--
 
