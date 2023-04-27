@@ -10,6 +10,6 @@
 
 <b>About Me</b>
 
-I am a Wii modder, avid programmer, and city boi.  In my spare time I play video games, and look at 4k pictures of different cities around the world.
+<big>I am a Wii modder, avid programmer, and city boi.  In my spare time I play video games and look at 4k pictures of different cities around the world.</big>
 <!--
 
