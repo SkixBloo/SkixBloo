@@ -1,4 +1,4 @@
-<b>Here's a GIF to lighten the mood!</b>
+<b>Here's a GIF to lighten the mood you chumps!</b>
 
 ![](anime-chibi.gif)
 
