@@ -1,4 +1,6 @@
-<b>Here's a GIF to lighten the mood you chumps!</b>
+<b><big>Some annoying bots R following me >:(</b></big>
+
+<b>Here's a GIF to lighten the mood you chumps</b>
 
 ![](anime-chibi.gif)
 
