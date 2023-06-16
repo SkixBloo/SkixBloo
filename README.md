@@ -1,7 +1,3 @@
-<b>Here's a GIF to lighten the mood you chumps</b>
-
-![](anime-chibi.gif)
-
 ![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SkixBloo&theme=tokyonight)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SkixBloo&show_icons=true&theme=tokyonight)
